@@ -1,0 +1,167 @@
+body {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+hr {
+    border: dotted #11999e;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+}
+
+h1 {
+    margin: 50px auto 0 auto;
+    font-size: 5.625rem;
+    font-family: 'Sacramento', cursive;
+    color: #66BFBF;
+    line-height: 2;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    color: #66BFBF;
+    font-weight: normal;
+    padding-bottom: 10px;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    color: #11999e;
+}
+
+p {
+    line-height: 2;
+}
+
+a {
+    color: #11999e;
+    font-family: 'Montserrat', sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+
+}
+ 
+a:hover {
+    color: #EAf6f6;
+}
+
+.top-picture {
+    width: 150px;
+    position: fixed;
+    left: 5%;
+    top: 30px;
+}
+
+.top-container {
+    position: relative;
+    padding: 250px auto 500px auto;
+    line-height: 2;
+}
+
+.middle-container {
+    margin: 100px 0;
+}
+
+.bottom-container {
+    background-color: #66BFBF;
+    padding: 50px 0 20px 0;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    overflow: auto;
+}
+
+.intro {
+    width: 30%;
+    margin: auto;
+}
+
+.contact-message {
+    width: 40%;
+    margin: 40px auto 60px auto;
+}
+
+.pro {
+    text-decoration: underline;
+}
+
+.programmer {
+    color: #66BFBF;
+    font-weight: normal;
+}
+
+.skill-img {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.experience-img {
+    width: 25%;
+    float: right;
+    margin-right: 30px;
+}
+
+.profile-main {
+    width: 10%;
+}
+
+.footer-link {
+    color: #11999e;
+}
+
+.copyright {
+    color: #EAf6f6;
+    font-size: 0.75rem;
+    padding: 20px 0;
+}
+
+.mountain-middle {
+    padding-top: 350px;
+    padding-bottom: none;
+    border: 50 auto 50 auto;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 40px;
+    top: 50px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 250px;
+    bottom: 300px;
+}
+
+.btn {
+	background:linear-gradient(to bottom, #7892c2 5%, #476e9e 100%);
+	background-color:#7892c2;
+	border-radius:8px;
+	border:1px solid #4e6096;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:'Montserrat', sans-serif;
+	font-size:19px;
+	font-weight:bold;
+	padding: 10px 20px 10px 20px;
+	text-decoration:none;
+}
+.btn:hover {
+	background:linear-gradient(to bottom, #476e9e 5%, #7892c2 100%);
+	background-color:#476e9e;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
