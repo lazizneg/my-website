@@ -61,7 +61,7 @@
             <p class="contact-message">All opportunities presented to work on are both exciting and thrilling. From the industry there's a lot of passion.
                 From that passion, I want to succeed and learn and grow by contributing with my software skills. 
             </p>
-            <a class="btn" href="mailto:name@email.com">Contact Me</a>
+            <a class="btn" href="mailto:ln41128n@pace.edu">Contact Me</a>
         </div>
     </div>
 
